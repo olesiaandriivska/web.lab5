@@ -1,0 +1,7 @@
+  [
+    {"username":"Ivan","password":"123","age":34,"status":"true"},
+    {"username":"Petro","password":"125","age":41,"status":"true"},
+    {"username":"Nastya","password":"112","age":38,"status":"true"},
+    {"username":"Victor","password":"113","age":47,"status":"true"}
+
+  ]
