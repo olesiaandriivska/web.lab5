@@ -1,18 +1,12 @@
-TABLE {
-    border-collapse: collapse; /* Убираем двойные линии между ячейками */
-    width: 10000px; /* Ширина таблицы */
-
+h1{
+    background-color:brown;
+    color:white;
+    padding:20px;
+    text-align: center;
 }
-TH, TD {
-    border: 2px solid #ff207d; /* Параметры рамки */
-    color: #251d64;
-    text-align: center; /* Выравнивание по центру */
-    padding: 10px; /* Поля вокруг текста */
-    background: #ffb8d8;
+.myform input{
+    margin:5px;
 }
-TH {
-    background: #ffa0be; /* Цвет фона ячейки */
-     /* Высота ячеек */
-    text-align: center;/* Выравнивание по нижнему краю */
-    padding: 15px; /* Убираем поля вокруг текста */
+table{
+    margin:5px;
 }
